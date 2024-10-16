@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompetencyAPI", "CompetencyAPI\CompetencyAPI.csproj", "{A710EFE2-5063-4665-A222-E0A50B0BBCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Competency.DOMAIN", "Competency.DOMAIN\Competency.DOMAIN.csproj", "{F2F35AB1-8397-47EF-8390-9D88D7C08451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A710EFE2-5063-4665-A222-E0A50B0BBCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A710EFE2-5063-4665-A222-E0A50B0BBCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A710EFE2-5063-4665-A222-E0A50B0BBCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A710EFE2-5063-4665-A222-E0A50B0BBCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F35AB1-8397-47EF-8390-9D88D7C08451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F35AB1-8397-47EF-8390-9D88D7C08451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F35AB1-8397-47EF-8390-9D88D7C08451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F35AB1-8397-47EF-8390-9D88D7C08451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92F4249-939E-4076-8CDF-3DE5F46B96F8}
+	EndGlobalSection
+EndGlobal
